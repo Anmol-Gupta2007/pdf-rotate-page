@@ -6,7 +6,6 @@ let totalPages = 0;
 // This array will hold the current rotation state (in degrees) for each page index.
 let pageRotations = []; 
 
-
 // --- UI Elements ---
 const uploadArea = document.getElementById('upload-area');
 const fileInput = document.getElementById('file-input');
